@@ -1,8 +1,17 @@
 ##  DevRel Campaign Strategy Template
 
-Template written by [Tessa Kriesel](https://twitter.com/tessak22), DevRel Coach & CEO of [Devocate](https://learn.devocate.com/). Please fork this repo and create your own version a DevRel Campaign. Then share what you've created in the discussions here in this repo. DevRel needs more knowledge sharing.
+Template written by [Tessa Kriesel](https://twitter.com/tessak22), DevRel Coach & CEO of [Devocate](https://learn.devocate.com/). 
 
 [Google Doc Version](https://docs.google.com/document/d/12ISEQMz9M7VARNZ_qkUA_30Sr3NsPR-04_-oQz2cQrs/edit?usp=sharing)
+
+### Take Action
+* Fork this repo
+* Draft your own DevRel campaign (or template version)
+* Share in our [discussions here](https://github.com/Devocate-Community/DevRel-Campaign-Template/discussions/categories/share-your-campaigns)
+* Enjoy!
+
+If you're looking for more free resources, DevRel learning programs, or DevRel coaching, please check out [Devocate Learn](https://learn.devocate.com). 
+
 <hr>
 
 <table>
