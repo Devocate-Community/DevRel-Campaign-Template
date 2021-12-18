@@ -2,6 +2,9 @@
 
 Template written by [Tessa Kriesel](https://twitter.com/tessak22), DevRel Coach & CEO of [Devocate](https://learn.devocate.com/). Please fork this repo and create your own version a DevRel Campaign. Then share what you've created in the discussions here in this repo. DevRel needs more knowledge sharing.
 
+[Google Doc Version](https://docs.google.com/document/d/12ISEQMz9M7VARNZ_qkUA_30Sr3NsPR-04_-oQz2cQrs/edit?usp=sharing)
+<hr>
+
 <table>
   <tr>
    <td><strong>Driver</strong>
