@@ -7,7 +7,7 @@ Template written by [Tessa Kriesel](https://twitter.com/tessak22), DevRel Coach 
 ### Take Action
 * Fork this repo
 * Draft your own DevRel campaign (or template version)
-* Share in our [discussions here](https://github.com/Devocate-Community/DevRel-Campaign-Template/discussions/categories/share-your-campaigns)
+* Learn from other DevRel's by sharing in our [discussions here](https://github.com/Devocate-Community/DevRel-Campaign-Template/discussions/categories/share-your-campaigns) 
 * Enjoy!
 
 If you're looking for more free resources, DevRel learning programs, or DevRel coaching, please check out [Devocate Learn](https://learn.devocate.com). 
